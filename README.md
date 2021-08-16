@@ -1,2 +1,3 @@
 # Clock-using-c++
-Clock
+Digital Clock 
+
