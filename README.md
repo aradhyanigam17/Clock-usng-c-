@@ -1,2 +1,2 @@
-# Clock-usng-c-
+# Clock-using-c++
 Clock
