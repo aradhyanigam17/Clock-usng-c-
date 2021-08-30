@@ -1,3 +1,3 @@
 # Clock-using-c++
-Digital Clock with Color Bacckground:)
+Digital Clock with Color Background:)
 
